@@ -5,7 +5,7 @@ unsigned int sample;
 
 void setup() {	// sätestab seriali & pinid 
   Serial.begin(9600);
-  for (int i = 2; i <= 9; i++) { //ledid
+  for (int i = 2; i <= 9; i++) { //ledid (pinid D2-D9)
     pinMode(i, OUTPUT);
   }
 }
