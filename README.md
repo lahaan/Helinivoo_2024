@@ -1,6 +1,6 @@
 # Helinivoo_2024
 
-Arduino kood helinivoo ülesande jaoks. (2024, TTÜ)
+Arduino Nano kood helinivoo ülesande jaoks. (2024, TTÜ)
 
 Allikad/kaste:
 
